@@ -6,12 +6,12 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f2e0;
+    background-color: #AD8B73;
     color: #4c3c32;
 }
 
 header {
-    background-color: #fff;
+    background-color: #CEAB93;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
@@ -46,7 +46,7 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 150px 0;
-    background-image: url('hero-bg.jpg');
+    background-image: url('interior.jpg');
     background-size: cover;
     color: white;
 }
@@ -54,11 +54,13 @@ nav a:hover {
 .hero h1 {
     font-size: 36px;
     margin-bottom: 20px;
+    color: #1C0A00;
 }
 
 .hero p {
-    font-size: 18px;
+    font-size: 25px;
     margin-bottom: 40px;
+    color: #1C0A00;
 }
 
 .cta-button {
