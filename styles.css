@@ -235,25 +235,33 @@ nav a:hover {
     padding: 10px;
     font-size: 15px;
 }
-
-
 footer {
-    background-color: #CEAB93;
-    color: white;
-    text-align: center;
-    padding: 20px 0;
+    background: #CEAB93;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px; 
 }
-footer .socials{
+
+footer .socials,
+footer .menu {
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10px 0;
-    flex-wrap: wrap;
+    margin: 0; 
+    padding: 0;
 }
-footer .socials li{
+
+footer .socials li,
+footer .menu li {
     list-style: none;
+    margin: 0; 
+    padding: 0;
 }
+
 footer .socials li a {
     font-size: 2em;
     color: #e5e5e5;
@@ -261,6 +269,28 @@ footer .socials li a {
     display: inline-block;
     transition: 0.5s;
 }
+
 footer .socials li a:hover {
     transform: translateY(-10px);
+}
+
+footer .menu li a {
+    font-size: 1.2em;
+    color: #AD8B73;
+    margin: 0 10px;
+    display: inline-block;
+    text-decoration: none;
+    opacity: 0.75;
+}
+
+footer .menu li a:hover {
+    opacity: 1;
+}
+
+footer p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.1em;
+    margin: 0; 
+    padding: 10px 0;
 }
