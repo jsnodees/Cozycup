@@ -1,5 +1,5 @@
 <h1>Project Description</h1>
-<p>lorem ipsum</p>
+<p>We made this Project for our activity. This project showcase the wide variety of delicious coffee and pastries</p>
 
 <h1>Features</h1>
 <ul>
@@ -24,4 +24,12 @@
 and my partner is Kimberly Claire Macajilos also a 3rd year BSIT student from Palawan State University
 </p>
 
+<img src="haidee.jpg" style="border-radius:50%; width:150px;">
+<p><b>Name: Haidee V. Venturillo</b></p>
+<p><b>Email: 202280134@psu.palawan.edu.ph</b></p>
+<button type="button"><a href="https://www.facebook.com/deedeebuuu">Facebook</a></button>
+<br>
+<img src="kim.jpg" style="border-radius:50%; width:150px;">
+<p><b>Name: Kimberly Claire Macajilos</b></p>
+<p><b>Email: 202280322@psu.palawan.edu.ph</b></p>
 
