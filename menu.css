@@ -1,0 +1,192 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #AD8B73;
+    color: #4c3c32;
+}
+
+header {
+    background-color: #CEAB93;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    max-width: 100px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #4c3c32;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #7e685b;
+}
+
+.hero {
+    text-align: center;
+    padding: 150px 0;
+    background-image: url('interior.jpg');
+    background-size: cover;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #1C0A00;
+}
+
+.hero p {
+    font-size: 25px;
+    margin-bottom: 40px;
+    color: #1C0A00;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4c3c32;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.cta-button:hover {
+    background-color: #7e685b;
+}
+
+.menu {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.menu h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.menu h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
+.menu-item {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    padding: 15px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item img {
+    max-width: 100%;
+}
+
+.pastrymenu {
+    padding: 30px 0;
+    text-align: center;
+}
+
+.pastrymenu h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.pastry-menu-item {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    padding: 15px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.pastry-menu-item img {
+    max-width: 100%;
+}
+
+footer {
+    background: #CEAB93;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px; 
+}
+
+footer .socials,
+footer .menu {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0; 
+    padding: 0;
+}
+
+footer .socials li,
+footer .menu li {
+    list-style: none;
+    margin: 0; 
+    padding: 0;
+}
+
+footer .socials li a {
+    font-size: 2em;
+    color: #e5e5e5;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+}
+
+footer .socials li a:hover {
+    transform: translateY(-10px);
+}
+
+footer .menu li a {
+    font-size: 1.2em;
+    color: #AD8B73;
+    margin: 0 10px;
+    display: inline-block;
+    text-decoration: none;
+    opacity: 0.75;
+}
+
+footer .menu li a:hover {
+    opacity: 1;
+}
+
+footer p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.1em;
+    margin: 0; 
+    padding: 10px 0;
+}
