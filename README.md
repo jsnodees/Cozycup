@@ -30,11 +30,15 @@ and my partner is Kimberly Claire Macajilos also a 3rd year BSIT student from Pa
 <button type="button"><a href="https://www.facebook.com/deedeebuuu">
 <img src="Facebook.png" style="width: 20px"></a></button>
 <button type="button"><a href="https://github.com/jsnodees">
-<img src="Github.png" style="width: 20px"></a></button>
+<img src="Github_black.png" style="width: 20px"></a></button>
 
 <br>
 
 <img src="kim.jpg" style="border-radius:50%; width:150px;">
 <p><b>Name: Kimberly Claire Macajilos</b></p>
 <p><b>Email: 202280322@psu.palawan.edu.ph</b></p>
+<button type="button"><a href="https://www.facebook.com/kimmyclairee">
+<img src="Facebook.png" style="width: 20px"></a></button>
+<button type="button"><a href="https://github.com/kimberlymacajilos">
+<img src="Github_black.png" style="width: 20px"></a></button>
 
