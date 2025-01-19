@@ -27,7 +27,8 @@ and my partner is Kimberly Claire Macajilos also a 3rd year BSIT student from Pa
 <img src="haidee.jpg" style="border-radius:50%; width:150px;">
 <p><b>Name: Haidee V. Venturillo</b></p>
 <p><b>Email: 202280134@psu.palawan.edu.ph</b></p>
-<button type="button"><a href="https://www.facebook.com/deedeebuuu">Facebook</a></button>
+<button type="button"><a href="https://www.facebook.com/deedeebuuu">
+</a></button>
 <br>
 <img src="kim.jpg" style="border-radius:50%; width:150px;">
 <p><b>Name: Kimberly Claire Macajilos</b></p>
