@@ -111,11 +111,12 @@ nav a:hover {
 .contact-form {
     width: 40%;
     padding: 40px;
-    background: #fff;
+    background: #CEAB93;
 }
 .contact-form h2 {
     font-size: 30px;
     color: #333;
+    font-weight: 800;
     font-weight: 800;
 }
 .contact-form .inputbox{
